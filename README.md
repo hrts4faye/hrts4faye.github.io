@@ -3,4 +3,4 @@
 ---
 
 
-theme: jekyll-theme-merlot
+theme: jekyll-theme-minimal
