@@ -6,4 +6,3 @@
 | 3 | 4 |
 | 5 | 6 |
 
-theme: jekyll-theme-minimal
