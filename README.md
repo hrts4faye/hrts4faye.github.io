@@ -4,7 +4,6 @@
 14 ☆ gemini
 
 # miscellaneous
-[home](# hrts4faye.github.io)
 ![unripe apples](https://user-images.githubusercontent.com/118266830/203076674-09392859-0a14-4c61-a9f0-8d0b0629e048.png)
 
 theme: jekyll-theme-minimal
