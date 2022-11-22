@@ -6,10 +6,10 @@
 
 
 about me *!*
-| likes      | dislikes  |
-| :----:        |    :----:   |
-| clouds, rainy weather, books    | hot weather            |
 
+likes
+
+clouds, rainy weather, books
 
 **currently reading**
 
