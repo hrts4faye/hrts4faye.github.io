@@ -5,7 +5,6 @@
 
 ## miscellaneous
 
-[home](##home)
-<a href="##home">home ☆</a>
+[home ☆](##home)
 
 theme: jekyll-theme-minimal
