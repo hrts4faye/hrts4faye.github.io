@@ -9,7 +9,7 @@ about me *!*
 
 likes
 
-clouds, rainy weather, books
+⤷ clouds, rainy weather, books
 
 **currently reading**
 
