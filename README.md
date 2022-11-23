@@ -10,10 +10,6 @@ likes
 
 ⤷ clouds, rainy weather, books
 
-dislikes
-
-⤷ hot weather
-
 
 **currently reading**
 
